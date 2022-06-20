@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/fourier-series/static/css/main.47f1e707.css",
-    "main.js": "/fourier-series/static/js/main.b1733d5f.js",
-    "index.html": "/fourier-series/index.html",
-    "main.47f1e707.css.map": "/fourier-series/static/css/main.47f1e707.css.map",
-    "main.b1733d5f.js.map": "/fourier-series/static/js/main.b1733d5f.js.map"
+    "main.css": "/fourier-series-drawer/static/css/main.47f1e707.css",
+    "main.js": "/fourier-series-drawer/static/js/main.b1733d5f.js",
+    "index.html": "/fourier-series-drawer/index.html",
+    "main.47f1e707.css.map": "/fourier-series-drawer/static/css/main.47f1e707.css.map",
+    "main.b1733d5f.js.map": "/fourier-series-drawer/static/js/main.b1733d5f.js.map"
   },
   "entrypoints": [
     "static/css/main.47f1e707.css",
